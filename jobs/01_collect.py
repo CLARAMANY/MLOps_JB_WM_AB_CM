@@ -11,7 +11,6 @@ def main():
     print("Dataset shape:", df.shape)
 
     df.to_csv("data/raw/housing_raw.csv", index=False)
-    print("✅ Saved: data/raw/housing_raw.csv")
 
 if __name__ == "__main__":
     main()
