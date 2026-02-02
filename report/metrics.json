@@ -1,0 +1,5 @@
+{
+    "model": "RandomForestRegressor",
+    "mae": 31465.253846899224,
+    "rmse": 48781.91100658834
+}
